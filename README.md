@@ -1,5 +1,8 @@
 # Social Media Backend using Spring Boot
 
+![{FEF8CA5C-DEDC-4921-9B45-B29537E36B5B}](https://github.com/user-attachments/assets/a06622d1-9108-4027-b75c-42b0121dd1b5)
+
+
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.1-green)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Sarthak-Mishra-1628/Social-Media-Backend-using-Spring-Boot)
